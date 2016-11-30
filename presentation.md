@@ -33,6 +33,8 @@ Something
 <!--On the slide: picture-->
 <!--What we'll say: description of how the model was used-->
 
+![heart](https://assets.pinshape.com/uploads/image/file/82536/container_anatomical-heart-3d-printing-82536.jpg)
+
 <aside class="notes">
 Something
 </aside>
