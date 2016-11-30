@@ -72,6 +72,7 @@ Something
 <!--On the slide: 2 pics - one of plastic and the other of tissue -->
 <!--What we'll say: different materials, cost, material maintenance-->
 
+
 <aside class="notes">
 Something
 </aside>
@@ -89,6 +90,8 @@ Something
 
 <!--On the slide: 2 pictures: final product (prosthetics) & bioprinting product-->
 <!--What we'll say: product maintenance/use-->
+
+1[](https://seekernetwork-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F5276407%2F980x.jpg/2000,2000/c%2B0djNcXRRmncf5E/img.jpg)
 
 <aside class="notes">
 Something
