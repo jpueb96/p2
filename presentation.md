@@ -16,6 +16,14 @@ Something
 <!--On the slide: picture-->
 <!--What we'll say: Haiti-->
 
+
+
+
+
+
+
+
+
 <aside class="notes">
 Something
 </aside>
@@ -33,6 +41,14 @@ Something
 
 <!--On the slide: pic from wake forest article-->
 <!--What we'll say: describe what they did-->
+
+
+
+
+
+
+
+
 
 <aside class="notes">
 Something
