@@ -16,7 +16,7 @@ Something
 <!--On the slide: picture-->
 <!--What we'll say: Haiti-->
 
-
+[clamp]: http://3dprintingindustry.com/wp-content/uploads/2013/10/clamp.jpg 
 
 
 
