@@ -61,7 +61,7 @@ Something
 <!--On the slide: screenshot-->
 <!--What we'll say: how the blueprint is created, technical factors that contribute-->
 
-![](https://github.com/jpueb96/p2/blob/gh-pages/Screen%20Shot%202016-11-30%20at%204.41.24%20PM.png)
+![](p2/blueprint.png)
 
 <aside class="notes">
 Something
