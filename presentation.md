@@ -42,10 +42,10 @@ Something
 <!--On the slide: pic from wake forest article-->
 <!--What we'll say: describe what they did-->
 
-
-
-
-
+* Purpose
+* Common systems
+* Potential issues
+* Factors
 
 
 
