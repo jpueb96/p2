@@ -61,6 +61,8 @@ Something
 <!--On the slide: screenshot-->
 <!--What we'll say: how the blueprint is created, technical factors that contribute-->
 
+
+
 <aside class="notes">
 Something
 </aside>
