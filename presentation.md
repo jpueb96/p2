@@ -61,7 +61,7 @@ Something
 <!--On the slide: screenshot-->
 <!--What we'll say: how the blueprint is created, technical factors that contribute-->
 
-![](p2/blueprint.png)
+![](/p2/blueprint.png)
 
 <aside class="notes">
 Something
