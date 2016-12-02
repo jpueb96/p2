@@ -16,7 +16,7 @@ Something
 <!--On the slide: picture-->
 <!--What we'll say: Haiti-->
 
-![clamp](http://3dprintingindustry.com/wp-content/uploads/2013/10/clamp.jpg)
+![](http://3dprintingindustry.com/wp-content/uploads/2013/10/clamp.jpg)
 
 
 
@@ -33,7 +33,7 @@ Something
 <!--On the slide: picture-->
 <!--What we'll say: description of how the model was used-->
 
-![heart](https://assets.pinshape.com/uploads/image/file/82536/container_anatomical-heart-3d-printing-82536.jpg)
+![](https://assets.pinshape.com/uploads/image/file/82536/container_anatomical-heart-3d-printing-82536.jpg)
 
 <aside class="notes">
 Something
