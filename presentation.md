@@ -16,7 +16,7 @@ Something
 <!--On the slide: picture-->
 <!--What we'll say: Haiti-->
 
-![clamp](http://3dprintingindustry.com/wp-content/uploads/2013/10/clamp.jpg)
+![](http://3dprintingindustry.com/wp-content/uploads/2013/10/clamp.jpg)
 
 
 
@@ -33,7 +33,7 @@ Something
 <!--On the slide: picture-->
 <!--What we'll say: description of how the model was used-->
 
-![heart](https://assets.pinshape.com/uploads/image/file/82536/container_anatomical-heart-3d-printing-82536.jpg)
+![](https://assets.pinshape.com/uploads/image/file/82536/container_anatomical-heart-3d-printing-82536.jpg)
 
 <aside class="notes">
 Something
@@ -91,7 +91,7 @@ Something
 <!--On the slide: 2 pictures: final product (prosthetics) & bioprinting product-->
 <!--What we'll say: product maintenance/use-->
 
-1[](https://seekernetwork-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F5276407%2F980x.jpg/2000,2000/c%2B0djNcXRRmncf5E/img.jpg)
+![](https://seekernetwork-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F5276407%2F980x.jpg/2000,2000/c%2B0djNcXRRmncf5E/img.jpg)
 
 <aside class="notes">
 Something
