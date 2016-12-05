@@ -4,15 +4,12 @@
 
 # 3D Printing
 
-<section data-audio-src="audio/mpillai_INLS161_1.ogg">
-
 <!--Brief history-->
 <!--Introduce the two uses-->
 
 ![](https://i.materialise.com/blog/wp-content/uploads/2015/05/materials2.jpg)
 
 
-</section>
 
 <aside class="notes">
 We will be presenting on one of the latest technologies, 3D printing. When most people think about 3D printing, they tend to visualize hard plastic figurines. When thinking about 3D printing in medicine, prosthetics is the first thing that usually comes to mind, but this technology’s capacity is far greater than that.There are various ways 3D printing is being used in medicine, and one of them is printing out tools to use in medical procedures.
