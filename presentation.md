@@ -78,7 +78,7 @@ The printing process starts with a string of solid material called filament. Thi
 <!--On the slide: image of vertebra-->
 <!--What we'll say: here is the final product-->
 
-![]()
+![](/p2/IMG_2055.jpg)
 
 <aside class="notes">
 And voila! We now have a 3D printed vertebra! 
