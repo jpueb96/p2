@@ -24,12 +24,6 @@ We will be presenting on one of the latest technologies, 3D printing. When most 
 
 ![](http://3dprintingindustry.com/wp-content/uploads/2013/10/clamp.jpg)
 
-
-
-
-
-
-
 <aside class="notes">
 iLab / / Haiti is a nonprofit that aims to make sure Haitians have access to medical tools they need. It established a 3D printing lab in Haiti with 2 different printers in which they create the designs for the tools and train individuals to print them. Dara Dotz, the founder of iLab Haiti, ran a pilot study on using 3D printers to create tools for humanitarian relief after the earthquake in 2010. This allowed for immediate access to medical tools without having to worry about delivery delays or transportation. Through this initiative, individuals trained in the lab have been able to create various medical devices and parts. In the pilot study, they fabricated an umbilical cord clamp prototype that’s shown here.Another way 3D printing is used in medicine is for surgical planning purposes.
 </aside>
@@ -50,13 +44,7 @@ Surgeons, doctors, and other medical professionals are able to print model organ
 <!--On the slide: pic from wake forest article-->
 <!--What we'll say: describe what they did-->
 
-* Purpose
-* Common systems
-* Potential issues
-* Factors
-
-
-
+![](/p2/ear.png)
 
 <aside class="notes">
 There is a limited availability of donor tissues and organs for transplantation, making bioprinting an important advancement in medicine. Just imagine if a patient needed an organ transplant and the hospital could just print the patient an organ. That seems absolutely mind-blowing, but it could happen in the future.
