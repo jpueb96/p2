@@ -60,7 +60,7 @@ We’re now going to discuss the printing process in the case of creating medica
 <!--What we'll say: this is the process - yay-->
 
 <section>
-    <video data-audio-controls src="https://vimeo.com/194408603" width="100%" />
+    <video data-audio-controls data-src="https://vimeo.com/194408603" width="100%" />
   </video>
 </section>
 
