@@ -52,16 +52,6 @@ Anthony Atala, from The Wake Forest Institute for Regenerative Medicine, recentl
 We’re now going to discuss the printing process in the case of creating medical models. The process is slightly different for bioprinting.
 </aside>
 
-# Process: Blueprint
-
-<!--On the slide: screenshot-->
-<!--What we'll say: how the blueprint is created, technical factors that contribute-->
-
-![](/p2/blueprint.png)
-
-<aside class="notes">
-A blueprint of the vertebra was first found online 
-</aside>
 
 
 # Process: Printing
