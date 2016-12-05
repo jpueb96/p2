@@ -4,18 +4,21 @@
 
 # 3D Printing
 
+<section data-audio-src="audio/mpillai_INLS161_1.ogg">
+
 <!--Brief history-->
 <!--Introduce the two uses-->
 
 ![](https://i.materialise.com/blog/wp-content/uploads/2015/05/materials2.jpg)
 
+
+</section>
+
 <aside class="notes">
 We will be presenting on one of the latest technologies, 3D printing. When most people think about 3D printing, they tend to visualize hard plastic figurines. When thinking about 3D printing in medicine, prosthetics is the first thing that usually comes to mind, but this technology’s capacity is far greater than that.There are various ways 3D printing is being used in medicine, and one of them is printing out tools to use in medical procedures.
 </aside>
 
-<section id="introduction" class="slide level1" data-audio-src="audio/1.0.ogg">
 
-</section>
 
 # Medical Modeling: Tools
 
@@ -52,16 +55,6 @@ Anthony Atala, from The Wake Forest Institute for Regenerative Medicine, recentl
 We’re now going to discuss the printing process in the case of creating medical models. The process is slightly different for bioprinting.
 </aside>
 
-# Process: Blueprint
-
-<!--On the slide: screenshot-->
-<!--What we'll say: how the blueprint is created, technical factors that contribute-->
-
-![](/p2/blueprint.png)
-
-<aside class="notes">
-A blueprint of the vertebra was first found online 
-</aside>
 
 
 # Process: Printing
