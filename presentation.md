@@ -59,7 +59,7 @@ We’re now going to discuss the printing process in the case of creating medica
 <!--On the slide: video-->
 <!--What we'll say: this is the process - yay-->
 
-<iframe src="https://player.vimeo.com/video/194408603?autoplay=1&loop=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/194408603?autoplay=1&loop=1&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <aside class="notes">
 The printing process starts with a string of solid material called filament. This line of filament is guided from a reel to the printer’s heated nozzle that melts the material.Once in a melted state, the material follows the predetermined path created by the blueprint on the computer. As the material is extruded, it instantly cools down and solidifies – providing the foundation for the next layer of material until the entire object is manufactured.If the item does not have enough support, a temporary support will be created to ensure accurate dimensions of the item, that is what occurred in the beginning of the video.We now know some of the ways 3D printing is currently being used in the medical field. We can only imagine what the future of 3D printing might look like, but here is what some have already thought could be possible. 
