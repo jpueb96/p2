@@ -4,15 +4,14 @@
 
 # 3D Printing
 
+<section id="3d-printing-audio" data-audio-src="audio/mpillai_INLS_1.ogg">
+
 <!--Brief history-->
 <!--Introduce the two uses-->
 
 ![](https://i.materialise.com/blog/wp-content/uploads/2015/05/materials2.jpg)
 
-<section id="3d-printing" class="slide level" data-audio-src="audio/mpillai_INLS_1.ogg">
-  <h2>
-    My slide
-  </h2>
+
 </section>
 
 <aside class="notes">
