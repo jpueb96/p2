@@ -9,7 +9,10 @@
 
 ![](https://i.materialise.com/blog/wp-content/uploads/2015/05/materials2.jpg)
 
-<section data-audio-src="audio/mpillai_INLS161_1.ogg" data-background="#56A0D3"> 
+<section id="my-slide" class="slide level" data-audio-src="audio/mpillai_INLS_1.ogg">
+  <h2>
+    My slide
+  </h2>
 </section>
 
 <aside class="notes">
