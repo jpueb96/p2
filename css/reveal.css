@@ -282,9 +282,13 @@ body {
 .reveal .slides > section {
   -ms-perspective: 600px; }
 
-.reveal .slides > section, .reveal .slides > section > section {
-  display: none;
-  position: absolute;
+.reveal .slides > section.present, .reveal .slides > section > section.present {
+  min-height: 100% !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  position: absolute !important;
+  top: 0 !important;
   width: 100%;
   padding: 20px 0px;
   z-index: 10;
