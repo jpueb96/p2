@@ -17,7 +17,7 @@ We will be presenting on one of the latest technologies, 3D printing. When most 
 
 
 
-# Medical Modeling: Tools
+# Medical Modeling
 
 <!--On the slide: picture-->
 <!--What we'll say: Haiti-->
@@ -28,7 +28,7 @@ We will be presenting on one of the latest technologies, 3D printing. When most 
 iLab / / Haiti is a nonprofit that aims to make sure Haitians have access to medical tools they need. It established a 3D printing lab in Haiti with 2 different printers in which they create the designs for the tools and train individuals to print them. Dara Dotz, the founder of iLab Haiti, ran a pilot study on using 3D printers to create tools for humanitarian relief after the earthquake in 2010. This allowed for immediate access to medical tools without having to worry about delivery delays or transportation. Through this initiative, individuals trained in the lab have been able to create various medical devices and parts. In the pilot study, they fabricated an umbilical cord clamp prototype that’s shown here.Another way 3D printing is used in medicine is for surgical planning purposes.
 </aside>
 
-# Medical Modeling: Surgical Planning
+# Surgical Planning
 
 <!--On the slide: picture-->
 <!--What we'll say: description of how the model was used-->
@@ -54,7 +54,7 @@ We’re now going to discuss the printing process in the case of creating medica
 
 
 
-# Process: Printing
+# Printing
 
 <!--On the slide: video-->
 <!--What we'll say: this is the process - yay-->
@@ -65,7 +65,7 @@ We’re now going to discuss the printing process in the case of creating medica
 The printing process starts with a string of solid material called filament. This line of filament is guided from a reel to the printer’s heated nozzle that melts the material.Once in a melted state, the material follows the predetermined path created by the blueprint on the computer. As the material is extruded, it instantly cools down and solidifies – providing the foundation for the next layer of material until the entire object is manufactured.If the item does not have enough support, a temporary support will be created to ensure accurate dimensions of the item, that is what occurred in the beginning of the video.We now know some of the ways 3D printing is currently being used in the medical field. We can only imagine what the future of 3D printing might look like, but here is what some have already thought could be possible. 
 </aside>
 
-# Process: 3D Printed Vertebra
+# 3D Printed Vertebra
 
 <!--On the slide: image of vertebra-->
 <!--What we'll say: here is the final product-->
